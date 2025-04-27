@@ -1,0 +1,5 @@
+matplotlib==3.10.1
+numpy==2.2.5
+pytesseract==0.3.13
+scipy==1.15.2
+streamlink==7.1.3
