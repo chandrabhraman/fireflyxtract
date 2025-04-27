@@ -68,5 +68,5 @@ python3 [get_telemetry_firefly.py] "https://www.youtube.com/watch?v=ChEuA1AUJAY"
 ## Scope of improvement
 Better template matching for the telemetry would help. Open to PRs.
 
-# Credits
+## Credits
 Credit to the Firefly Aerospace Youtube [video](https://www.youtube.com/watch?v=ChEuA1AUJAY) for Blue Ghost Mission 1.
